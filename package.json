@@ -1,10 +1,10 @@
 {
   "name": "gruvbox-or-sth",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "title": "Gruvboxish",
+  "displayName": "Gruvboxish",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "Try to apply gruvbox theme on mailspring.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
